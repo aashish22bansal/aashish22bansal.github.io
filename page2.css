@@ -1,0 +1,79 @@
+#lorem{
+	background: black;
+	color: white;
+	
+	border: 3px solid red;
+	padding: 13px 13px 13px 20px;
+}
+
+#normal{
+	font-style: normal;
+}
+
+#italic{
+	font-style: italic;
+}
+
+#oblique{
+	font-style: oblique;
+}
+
+#smallcap{
+	font-variant: small-caps;
+}
+
+#Wnormal{
+	font-weight: normal;
+}
+
+#Wbolder{
+	font-weight: bolder;
+}
+
+#Wbold{
+	font-weight: bold;
+}
+
+#xxlarge{
+	font-size: xx-large;
+}
+
+#xlarge{
+	font-size: x-large;
+}
+
+#large{
+	font-size: large;
+}
+
+#medium{
+	font-size: medium;
+}
+
+#small{
+	font-size: small;
+}
+
+#xxsmall{
+	font-small: xx-small;
+}
+
+#size25pt{
+	font-size: 25pt;
+}
+
+#size150{
+	font-size: 150%;
+}
+
+#linenormal{
+	font-height: 25pt;
+}
+
+#height25pt{
+	font-height: 25em;
+}
+
+#height200{
+	font-height: 200%
+}
