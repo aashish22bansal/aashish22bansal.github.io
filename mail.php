@@ -1,4 +1,5 @@
 <?php
+    echo "Hello";
     function send(){
         $name = $_POST['fname'];
         $email = $_POST['email'];
