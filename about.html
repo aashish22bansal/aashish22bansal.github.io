@@ -29,6 +29,38 @@
         <![endif]-->
 	</head>
 	<body>
+        <style>
+            /* Make sure that padding behaves as expected */
+            * {box-sizing:border-box}
+
+            /* Container for skill bars */
+            .container {
+                width: 90%; /* Full width */
+                background-color: #ddd; /* Grey background */
+            }
+
+            .skills {
+                text-align: right; /* Right-align text */
+                padding-top: 10px; /* Add top padding */
+                padding-bottom: 10px; /* Add bottom padding */
+                color: white; /* White text color */
+            }
+
+            .english {width: 90%; background-color: #f44336;}
+            .hindi {width: 90%; background-color: #f44336;}
+            .punjabi {width: 90%; background-color: #f44336;}
+            .kannada {width: 25%; background-color: #f44336;}
+            .cpp {width: 75%; background-color: #f44336;}
+            .c {width: 65%; background-color: #f44336;}
+            .java {width: 50%; background-color: #f44336;}
+            .python {width: 75%; background-color: #f44336;}
+            .html {width: 80%; background-color: #f44336;}
+            .css {width: 70%; background-color: #f44336;}
+            .javascript {width: 50%; background-color: #f44336;}
+            .php {width: 75%; background-color: #f44336;}
+            .sql {width: 65%; background-color: #f44336;}
+            .r {width: 25%; background-color: #f44336;}
+        </style>
 		<!--This div tag contains the header of the webpage.-->
 		<!-- Navigation -->
         <nav class="navbar navbar-inverse navbar-fixed-top" role="navigation">
@@ -79,14 +111,146 @@
                                 I bring to the table. 
                             </strong>
                         </h4>
-                        <h5>
+                        <h4>
                             I am an e-Learner and I like to learn more and deep about new technologies and concepts
                             and keep my mind pro-active with dynamic thoughts for new ideas. I like to work on projects
                             with a team where people willing contribute with ideas and let their imagination bring the 
                             best of it.
-                        </h5>
+                        </h4>
+                        <h1>Languages</h1>
+                        <table>
+                            <th>
+                                <tr>
+                                    <td>Languages</td>
+                                    <td>Proficiency</td>
+                                </tr>
+                            </th>
+                            <tr>
+                                <td>English</td>
+                                <td width=100%>
+                                    <div class="container">
+                                        <div class="skills english">90%</div>
+                                    </div>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td>Hindi</td>
+                                <td>
+                                    <div class="container">
+                                        <div class="skills hindi">90%</div>
+                                    </div>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td>Punjabi</td>
+                                <td>
+                                    <div class="container">
+                                        <div class="skills punjabi">90%</div>
+                                    </div>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td>Kannada</td>
+                                <td>
+                                    <div class="container">
+                                        <div class="skills kannada">25%</div>
+                                    </div>
+                                </td>
+                            </tr>
+                        </table>
+                        <h1>Programming Skills</h1>
+                        <table>
+                            <th>
+                                <tr>
+                                    <td>Language</td>
+                                    <td>Skill Level</td>
+                                </tr>
+                            </th>
+                            <tr>
+                                <td>C++</td>
+                                <td width=100%>
+                                    <div class="container">
+                                        <div class="skills cpp">75%</div>
+                                    </div>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td>C</td>
+                                <td>
+                                    <div class="container">
+                                        <div class="skills c">65%</div>
+                                    </div>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td>Java</td>
+                                <td>
+                                    <div class="container">
+                                        <div class="skills java">50%</div>
+                                    </div>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td>Python</td>
+                                <td>
+                                    <div class="container">
+                                        <div class="skills python">75%</div>
+                                    </div>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td>HTML</td>
+                                <td>
+                                    <div class="container">
+                                        <div class="skills html">80%</div>
+                                    </div>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td>CSS</td>
+                                <td>
+                                    <div class="container">
+                                        <div class="skills css">70%</div>
+                                    </div>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td>JavaScript</td>
+                                <td>
+                                    <div class="container">
+                                        <div class="skills javascript">50%</div>
+                                    </div>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td>PHP</td>
+                                <td>
+                                    <div class="container">
+                                        <div class="skills php">75%</div>
+                                    </div>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td>SQL</td>
+                                <td>
+                                    <div class="container">
+                                        <div class="skills sql">65%</div>
+                                    </div>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td>R</td>
+                                <td>
+                                    <div class="container">
+                                        <div class="skills r">25%</div>
+                                    </div>
+                                </td>
+                            </tr>
+                        </table>
+                        <h1>Projects</h1>
+                        <h2>Hotel Management System</h2>
                     </div>
-    
+
                 </div>
             </div>
         </div>
@@ -126,13 +290,13 @@
             </div>
         </section>
     
-        <End Contact Section >
+        <End Contact Section -->
 
         <footer Section >
         <div class="for-full-back " id="footer">
             Aashish Bansal
     
-        </div-->
+        </div>
         <!--End footer Section -->
         <!-- JAVASCRIPT FILES PLACED AT THE BOTTOM TO REDUCE THE LOADING TIME  -->
         <!-- CORE JQUERY  -->
