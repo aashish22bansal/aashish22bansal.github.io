@@ -9,12 +9,6 @@
 
 > "Who doesn't want to make his life successful. I wanna make my life meaningful because One day a movie will flash in front of my eyes and I wanna make it worth watching."
 
-**Badges**
-- HackerRank Silver Level (3 Star)
-- HackerRank Silver Leve (4 Star)
-- Python Silve Leve (3 Star)
-- Java Bronze Level (1 Star)
-
 
 ## Table of Contents (Optional)
 
