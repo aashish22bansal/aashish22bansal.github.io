@@ -57,16 +57,19 @@ body {
   line-height: 1.5;
   color: #212529;
   text-align: left;
-  background-color: #fff; }
+  background-color: #fff; 
+}
 
 [tabindex="-1"]:focus {
-  outline: 0 !important; }
+  outline: 0 !important; 
+}
 
 hr {
   -webkit-box-sizing: content-box;
   box-sizing: content-box;
   height: 0;
-  overflow: visible; }
+  overflow: visible; 
+}
 
 h1, h2, h3, h4, h5, h6 {
   margin-top: 0;
@@ -173,7 +176,10 @@ svg {
   vertical-align: middle; }
 
 table {
-  border-collapse: collapse; }
+  border-collapse: collapse;
+  width: 100%;
+  padding: 1000px 50px 75px 100px; 
+}
 
 caption {
   padding-top: 0.75rem;
@@ -1334,17 +1340,20 @@ pre {
 .table {
   width: 100%;
   margin-bottom: 1rem;
-  color: #212529; }
-  .table th,
-  .table td {
-    padding: 0.75rem;
-    vertical-align: top;
-    border-top: 1px solid #dee2e6; }
-  .table thead th {
-    vertical-align: bottom;
-    border-bottom: 2px solid #dee2e6; }
-  .table tbody + tbody {
-    border-top: 2px solid #dee2e6; }
+  color: #212529; 
+}
+.table th,
+.table td {
+  padding: 10px;
+  vertical-align: top;
+  border-top: 1px solid #dee2e6; 
+}
+.table thead th {
+  vertical-align: bottom;
+  border-bottom: 2px solid #dee2e6; 
+}
+.table tbody + tbody {
+  border-top: 2px solid #dee2e6; }
 
 .table-sm th,
 .table-sm td {
@@ -1531,27 +1540,35 @@ pre {
 
 .table-dark {
   color: #fff;
-  background-color: #343a40; }
-  .table-dark th,
-  .table-dark td,
-  .table-dark thead th {
-    border-color: #454d55; }
-  .table-dark.table-bordered {
-    border: 0; }
-  .table-dark.table-striped tbody tr:nth-of-type(odd) {
-    background-color: rgba(255, 255, 255, 0.05); }
-  .table-dark.table-hover tbody tr:hover {
-    color: #fff;
-    background-color: rgba(255, 255, 255, 0.075); }
+  background-color: #343a40; 
+}
+.table-dark th,
+.table-dark td,
+.table-dark thead th {
+  border-color: #454d55; 
+}
+.table-dark.table-bordered {
+  border: 0; 
+}
+.table-dark.table-striped tbody tr:nth-of-type(odd) {
+  background-color: rgba(255, 255, 255, 0.05); 
+}
+.table-dark.table-hover tbody tr:hover {
+  color: #fff;
+  background-color: rgba(255, 255, 255, 0.075); 
+}
 
 @media (max-width: 575.98px) {
   .table-responsive-sm {
     display: block;
     width: 100%;
     overflow-x: auto;
-    -webkit-overflow-scrolling: touch; }
-    .table-responsive-sm > .table-bordered {
-      border: 0; } }
+    -webkit-overflow-scrolling: touch; 
+  }
+  .table-responsive-sm > .table-bordered {
+    border: 0; 
+  } 
+}
 
 @media (max-width: 767.98px) {
   .table-responsive-md {
