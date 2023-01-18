@@ -1,32 +1,25 @@
 <h3 align="center">
-  Welcome to Aashish Bansal's profile!
+  Welcome to my profile!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
 
-###### ***Information Technology Sophomore*** | ***Data Science Enthusiast***
+###### ***ML Engineer*** | ***Software Developer*** | ***Information Technology Final Year Student*** | ***Trained in Applied Machine Learning and Data Science*** | ***Data Science Enthusiast*** | ***Programmer*** | ***Web Developer*** | ***eLearner***
 
-[![Species](https://img.shields.io/badge/Species-Homo_sapiens-success?style=flat-square&logo=mailchimp&logoColor=white)](https://en.wikipedia.org/wiki/Homo_sapiens)
-[![Status](https://img.shields.io/badge/Status-Stable-success?style=flat-square&logo=gravatar&logoColor=white)](https://en.wikipedia.org/wiki/Life)
+<!-- [![Species](https://img.shields.io/badge/Species-Homo_sapiens-success?style=flat-square&logo=mailchimp&logoColor=white)](https://en.wikipedia.org/wiki/Homo_sapiens) -->
+<!-- [![Status](https://img.shields.io/badge/Status-Stable-success?style=flat-square&logo=gravatar&logoColor=white)](https://en.wikipedia.org/wiki/Life) -->
 [![My job](https://img.shields.io/badge/My%20job-Student-success?style=flat-square&logo=microgenetics&logoColor=white)](https://vit.ac.in/)
 [![Website](https://img.shields.io/badge/Website-aashish22bansal.github.io-informational?style=flat-square&logo=jekyll&logoColor=white)](https://aashish22bansal.github.io)
-[![Google](https://img.shields.io/badge/Google-deleted-active?style=flat-square&logo=google&logoColor=white)](https://github.com/tycrek/degoogle)
-[![OS](https://img.shields.io/badge/OS-Windows-informational?style=flat-square&logo=apple&logoColor=white)](https://en.wikipedia.org/wiki/Windows)
-[![OS](https://img.shields.io/badge/OS-Linux-informational?style=flat-square&logo=linux&logoColor=white)](https://en.wikipedia.org/wiki/Linux)
-[![Editor](https://img.shields.io/badge/Editor-VSCode-blue?style=flat-square&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
+<!-- [![Google](https://img.shields.io/badge/Google-deleted-active?style=flat-square&logo=google&logoColor=white)](https://github.com/tycrek/degoogle) -->
+<!-- [![OS](https://img.shields.io/badge/OS-Windows-informational?style=flat-square&logo=apple&logoColor=white)](https://en.wikipedia.org/wiki/Windows) -->
+<!-- [![OS](https://img.shields.io/badge/OS-Linux-informational?style=flat-square&logo=linux&logoColor=white)](https://en.wikipedia.org/wiki/Linux) -->
+<!-- [![Editor](https://img.shields.io/badge/Editor-VSCode-blue?style=flat-square&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/) -->
+<!-- ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=aashish22bansal.visitor-badge) -->
+<!-- [![Years Badge](https://badges.pufler.dev/years/aashish22bansal)](https://badges.pufler.dev) -->
+<!-- [![Gists Badge](https://badges.pufler.dev/gists/aashish22bansal)](https://badges.pufler.dev) -->
+<!-- [![Repos Badge](https://badges.pufler.dev/repos/aashish22bansal)](https://badges.pufler.dev) -->
 
-![visitor badge](https://visitor-badge.glitch.me/badge?page_id=aashish22bansal.visitor-badge)
-[![Years Badge](https://badges.pufler.dev/years/aashish22bansal)](https://badges.pufler.dev)
-[![Gists Badge](https://badges.pufler.dev/gists/aashish22bansal)](https://badges.pufler.dev)
+<!-- [![trophy](https://github-profile-trophy.vercel.app/?username=aashish22bansal)](https://github.com/ryo-ma/github-profile-trophy) -->
 
-[![Twitter Badge](https://img.shields.io/badge/-Aashish19830078-blue?style=plastic&logo=Twitter&logoColor=white&link=https://twitter.com/Aashish19830078/)](https://twitter.com/Aashish19830078/)
-[![Facebook Badge](https://img.shields.io/badge/-Aashish%20Bansal-blue?style=plastic&logo=Facebook&logoColor=white&link=https://www.facebook.com/profile.php?id=100005578695799&sk=about)](https://www.facebook.com/profile.php?id=100005578695799&sk=about)
-[![Messenger Badge](https://img.shields.io/badge/-Messenger-0078FF?style=flat&logo=Messenger&logoColor=white)](https://www.facebook.com/profile.php?id=100005578695799&sk=about "Connect on Facebook")
-[![Linkedin Badge](https://img.shields.io/badge/-Aashish%20Bansal%20-blue?style=plastic&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aashish-bansal-415163167/)](https://www.linkedin.com/in/aashish-bansal-415163167/)
-[![Gmail Badge](https://img.shields.io/badge/-aashish22bansal@gmail.com-c14438?style=plastic&logo=Gmail&logoColor=white&link=mailto:aashish22bansal@gmail.com)](mailto:aashish22bansal@gmail.com)
-[![Instagram Badge](https://img.shields.io/badge/-aashish2208bansal-purple?style=plastic&logo=instagram&logoColor=white&link=https://instagram.com/aashish2208bansal/)](https://instagram.com/aashish2208bansal)
-[![Telegram Badge](https://img.shields.io/badge/-@aashish22bansal-0088CC?style=flat&logo=Telegram&logoColor=white)](https://t.me/aashish22bansal "Contact on Telegram")
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=aashish22bansal&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 ### About
 
@@ -48,20 +41,30 @@
 <!-- Badges template - https://github.com/badges/shields -->
 <!-- YouTube Stats - https://github.com/aashish22bansal/github-readme-youtube-stats -->
 <!-- View counter - https://github.com/aashish22bansal/Simple-View-Counter -->
-<p align="center">
-  <!--a href="https://www.youtube.com/c/DevProTips?sub_confirmation=1">
-    <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://freshidea.com/jonah/youtube-api/subscribers-badge.php?color=red&labelColor=ce4630&label=Subscribe&style=for-the-badge"/></a> 
+<!--p align="center">
+  <a href="https://www.youtube.com/c/DevProTips?sub_confirmation=1">
+    <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://freshidea.com/jonah/youtube-api/subscribers-badge.php?color=red&labelColor=ce4630&label=Subscribe&style=for-the-badge"/>
+  </a> 
   <a href="https://www.youtube.com/c/DevProTips">
-    <img alt="youtube views" title="YouTube views" src="https://freshidea.com/jonah/youtube-api/view-count-badge-temp.php?label=Views&color=e1ad0e&labelColor=c79600&style=for-the-badge"/></a--> 
-  <a href="https://twitter.com/Aashish19830078">
-    <img alt="followers" title="Follow me on Twitter" src="https://img.shields.io/twitter/follow/Aashish19830078?color=55960c&labelColor=488207&label=Follow&logo=twitter&logoColor=white&style=for-the-badge"/></a>
+    <img alt="youtube views" title="YouTube views" src="https://freshidea.com/jonah/youtube-api/view-count-badge-temp.php?label=Views&color=e1ad0e&labelColor=c79600&style=for-the-badge"/>
+  </a>
+  <a href="https://twitter.com/aashish22bansal">
+    <img alt="followers" title="Follow me on Twitter" src="https://img.shields.io/twitter/follow/aashish22bansal?color=55960c&labelColor=488207&label=Follow&logo=twitter&logoColor=white&style=for-the-badge"/>
+  </a>
   <a href="https://github.com/aashish22bansal">
-    <img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/aashish22bansal?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Follow"/></a>
-  <!--a href="https://github.com/aashish22bansal/Simple-View-Counter">
-    <img alt="views" title="Github views" src="https://freshidea.com/jonah/app/ghpvc"/></a-->
-</p>
+    <img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/aashish22bansal?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Follow"/>
+  </a>
+  <a href="https://github.com/aashish22bansal/Simple-View-Counter">
+    <img alt="views" title="Github views" src="https://freshidea.com/jonah/app/ghpvc"/>
+  </a>
+</p-->
 
-## 📘 My top open source projects
+## Publications
+
+1. Skin Cancer Detection using Transfer Learning and Ensemble Modelling
+2. Lung Nodule Detection based on Machine Learning and Deep Learning - An Analysis
+3. [In Progress] Network Intrusion Detection System using Machine learning and Deep Learning Techniques
+
 
 <!-- Repo info cards - https://github.com/anuraghazra/github-readme-stats -->
 <!-- Small repo cards (fork) - https://github.com/aashish22bansal/github-readme-stats -->
@@ -74,22 +77,45 @@
   <a href="https://github.com/aashish22bansal/unicode-formatter"><img width="282" src="https://aashish22bansal-github-readme-stats.vercel.app/api/pin/?username=aashish22bansal&repo=unicode-formatter&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="unicode-formatter"></a>
 </p-->
 
-<p align="left">
+<!--p align="left">
   <a href="https://github.com/aashish22bansal?tab=repositories"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
-</p>
+</p-->
 
 ## 🙋‍♂️ Connect with me
 
+[![Twitter Badge](https://img.shields.io/badge/-aashish22bansal-blue?style=plastic&logo=Twitter&logoColor=white&link=https://twitter.com/aashish22bansal/)](https://twitter.com/aashish22bansal/)
+[![Facebook Badge](https://img.shields.io/badge/-Aashish%20Bansal-blue?style=plastic&logo=Facebook&logoColor=white&link=https://www.facebook.com/profile.php?id=100005578695799&sk=about)](https://www.facebook.com/profile.php?id=100005578695799&sk=about)
+[![Messenger Badge](https://img.shields.io/badge/-Messenger-0078FF?style=flat&logo=Messenger&logoColor=white)](https://www.facebook.com/profile.php?id=100005578695799&sk=about "Connect on Facebook")
+[![Linkedin Badge](https://img.shields.io/badge/-Aashish%20Bansal%20-blue?style=plastic&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aashish22bansal/)](https://www.linkedin.com/in/aashish22bansal/)
+[![Gmail Badge](https://img.shields.io/badge/-aashish22bansal@gmail.com-c14438?style=plastic&logo=Gmail&logoColor=white&link=mailto:aashish22bansal@gmail.com)](mailto:aashish22bansal@gmail.com)
+[![Instagram Badge](https://img.shields.io/badge/-aashish2208bansal-purple?style=plastic&logo=instagram&logoColor=white&link=https://instagram.com/aashish2208bansal/)](https://instagram.com/aashish2208bansal)
+[![Telegram Badge](https://img.shields.io/badge/-@aashish22bansal-0088CC?style=flat&logo=Telegram&logoColor=white)](https://t.me/aashish22bansal "Contact on Telegram")
+
+
 <!-- Badges template - https://github.com/badges/shields -->
-<p align="center">
-  <!--a href="https://www.youtube.com/c/DevProTips"><img alt="Youtube" title="Youtube" src="https://img.shields.io/badge/-YouTube-red?style=for-the-badge&logo=youtube&logoColor=white"/></a-->
-  <a href="https://twitter.com/Aashish19830078"><img alt="Twitter" title="Twitter" src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
-  <a href="https://discord.gg/Aashish Bansal#0148" alt="Dev Pro Tips Discussion & Support Server"><img src="https://img.shields.io/badge/-Discord-7289DA?style=for-the-badge&logoColor=white&logo=discord"/></a>
-  <a href="https://dev.to/aashish22bansal"><img alt="Dev.to" title="aashish22bansal Dev.to" src="https://img.shields.io/badge/DEV.TO-3835D3.svg?&style=for-the-badge&logo=dev.to&logoColor=white"></a>
-  <!--a href="https://instagram.com/aashish2208bansal"><img alt="Instagram" title="aashish22bansal " src="https://img.shields.io/badge/DEV.TO-3835D3.svg?&style=for-the-badge&logo=dev.to&logoColor=white"></a-->
-  <!--a href="https://ko-fi.com/jlawrence"><img alt="Ko-fi" title="Buy me a coffee" src="https://img.shields.io/badge/-Support-FF5E5B?style=for-the-badge&logo=ko-fi&logoColor=white"/></a>
-  <a href="http://eyl327.mywebcommunity.org/promos/"><img alt="Free Stuff" title="Free gifts for you" src="https://img.shields.io/badge/-free%20promos-D1A104?style=for-the-badge&logo=coveralls&logoColor=white"/></a-->
-</p>
+<!--p align="center">
+  <a href="https://www.youtube.com/c/DevProTips">
+    <img alt="Youtube" title="Youtube" src="https://img.shields.io/badge/-YouTube-red?style=for-the-badge&logo=youtube&logoColor=white"/>
+  </a>
+  <a href="https://twitter.com/Aashish19830078">
+    <img alt="Twitter" title="Twitter" src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
+  </a>
+  <a href="https://discord.gg/Aashish Bansal#0148" alt="Dev Pro Tips Discussion & Support Server">
+    <img src="https://img.shields.io/badge/-Discord-7289DA?style=for-the-badge&logoColor=white&logo=discord"/>
+  </a>
+  <a href="https://dev.to/aashish22bansal">
+    <img alt="Dev.to" title="aashish22bansal Dev.to" src="https://img.shields.io/badge/DEV.TO-3835D3.svg?&style=for-the-badge&logo=dev.to&logoColor=white">
+  </a>
+  <a href="https://instagram.com/aashish2208bansal">
+    <img alt="Instagram" title="aashish22bansal " src="https://img.shields.io/badge/DEV.TO-3835D3.svg?&style=for-the-badge&logo=dev.to&logoColor=white">
+  </a>
+  <a href="https://ko-fi.com/jlawrence">
+    <img alt="Ko-fi" title="Buy me a coffee" src="https://img.shields.io/badge/-Support-FF5E5B?style=for-the-badge&logo=ko-fi&logoColor=white"/>
+  </a>
+  <a href="http://eyl327.mywebcommunity.org/promos/">
+    <img alt="Free Stuff" title="Free gifts for you" src="https://img.shields.io/badge/-free%20promos-D1A104?style=for-the-badge&logo=coveralls&logoColor=white"/>
+  </a>
+</p-->
 
 ## 🔥 Streak stats
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=aashish22bansal&hide_border=true)](https://git.io/streak-stats)
@@ -105,7 +131,7 @@
 
 ## 🛠️ My favorite tools
 
-### 👨‍💻 Programming languages
+### 👨‍💻 Languages
 
 <p>
     <a href="https://github.com/search?q=user%3Aaashish22bansal+is%3Arepo+language%3Ac"><img alt="C" src="https://img.shields.io/badge/C%20-%232370ED.svg?logo=c&logoColor=white"></a>
@@ -155,11 +181,11 @@
 </p>
 
 ## 📊 Github stats
-[![Aashish Bansal's GitHub stats](https://github-readme-stats.vercel.app/api?username=aashish22bansal&count_private=true&show_icons=true)](https://github.com/aashish22bansal/github-readme-stats)
+[![Aashish Bansal's GitHub stats](https://github-readme-stats.vercel.app/api?username=aashish22bansal&count_private=false&show_icons=true&include_all_commits=true)](https://github.com/aashish22bansal/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aashish22bansal&langs_count=8)](https://github.com/aashish22bansal/github-readme-stats)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aashish22bansal&langs_count=15)](https://github.com/aashish22bansal/github-readme-stats) -->
 
-[![Aashish Bansal's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://github.com/aashish22bansal/github-readme-stats)
+<!-- [![Aashish Bansal's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=aashish22bansal)](https://github.com/aashish22bansal/github-readme-stats) -->
 
 <!-- https://github.com/anuraghazra/github-readme-stats>
 <details> 
@@ -187,4 +213,4 @@
 </details-->
 
 <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
-<a href="https://github.com/aashish22bansal/github-readme-activity-graph"><img alt="aashish22bansal's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=aashish22bansal&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+<!-- <a href="https://github.com/aashish22bansal/github-readme-activity-graph"><img alt="aashish22bansal's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=aashish22bansal&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a> -->
